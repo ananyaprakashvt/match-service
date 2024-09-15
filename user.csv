@@ -1,0 +1,301 @@
+user_id,name,password,hokie_id,phone_number,email_id,member_type,vt_clubs,languages,music_genre,trip_count,rating,doc_verified,license_no,pronouns,convo_score
+1,William Garcia,9inAhJd3MhJ5,9066071117,170-682-5849,william.garcia@vt.edu,dp,"Chess Club, A Cappella, Robotics Club, Debate Team, Eco Club",Chinese,"R&B, Blues, Pop, Electronic, Jazz",3,1.1,False,,"she/her, ve/ver, xe/xem",4
+2,Malik Brown,eBPyavjcqexx,9066068505,918-889-7994,malik.brown@vt.edu,p,Chess Club,Chinese,"Electronic, Rock, Jazz, Country, R&B",10,4.2,True,420-XBN,"fae/faer, ve/ver",2
+3,Hassan Garcia,pI61ea1bTx9S,9066063000,434-999-5403,hassan.garcia@vt.edu,p,"Drama Society, Robotics Club, Eco Club",German,"Blues, Electronic",8,3,False,,"she/her, ze/zir, per/pers",9
+4,Carlos Johnson,tKji93fnZAcW,9066011231,510-356-1286,carlos.johnson@vt.edu,dp,"Chess Club, Eco Club, A Cappella, Debate Team, Dance Team","English, German","Hip-Hop, Pop, Rock, Blues, R&B",9,2.7,True,UXO-2768,hir/hirs,1
+5,Camila Davis,jl3k7vZMAmNv,9066051269,509-117-3111,camila.davis@vt.edu,dp,"Finance Club, Debate Team","Tagalog, English","R&B, Pop, Electronic",5,3.6,False,,"ve/ver, xe/xem",4
+6,Jaden Sanchez,MvAD1BIIS0zj,9066060953,829-494-5980,jaden.sanchez@vt.edu,p,"Dance Team, Finance Club, Anime Club",German,"Classical, Country, Blues",9,3.7,False,,"she/her, ey/em",5
+7,Santiago Garcia,R6ZfyNjzkTDn,9066084908,778-497-7832,santiago.garcia@vt.edu,dp,"Robotics Club, Eco Club","Chinese, Spanish, Arabic","Classical, Rock",4,3.2,True,VVG-0919,"per/pers, she/her, ey/em",6
+8,Omar Sanchez,csBGvuWMZcIw,9066011265,450-783-3702,omar.sanchez@vt.edu,dp,"Anime Club, Finance Club","Vietnamese, Chinese","Blues, Jazz, Hip-Hop",5,1.4,False,,"she/her, xe/xem, ze/zir",6
+9,Amir Davis,g1qH2NrUz8VF,9066075109,508-161-3841,amir.davis@vt.edu,dp,"Anime Club, Eco Club",German,"Reggae, Jazz, Blues, Hip-Hop",3,2.2,False,,xe/xem,6
+10,Ximena Taylor,3knjOj21VGEr,9066060875,941-793-7739,ximena.taylor@vt.edu,p,Chess Club,"French, English, Korean","Pop, Classical, Electronic",1,3.7,False,,fae/faer,2
+11,Lucia Perez,DxU53qLcR5eb,9066017154,855-336-7491,lucia.perez@vt.edu,dp,"Dance Team, Robotics Club",German,"Rock, R&B, Blues, Pop, Jazz",6,4.1,True,096-PSD,"ve/ver, per/pers, she/her",8
+12,Ximena Torres,pkC60JKeTgi2,9066022664,806-807-2508,ximena.torres@vt.edu,dp,A Cappella,French,Reggae,10,4.1,True,715-YBA,they/them,4
+13,Mateo Brown,5cgDCio8kdGO,9066017913,645-179-5320,mateo.brown@vt.edu,dp,"Robotics Club, Film Society","Tagalog, French, Korean","Hip-Hop, Country",7,3.6,True,7HNR019,he/him,8
+14,Mariana Perez,Kh6nqB1PPzba,9066055048,122-862-9860,mariana.perez@vt.edu,dp,"Chess Club, A Cappella","German, Chinese","Country, Blues, Jazz, Electronic, Rock",9,1.1,True,8YHA417,"ve/ver, they/them, hir/hirs",1
+15,Leila Hernandez,x6zRONGObuSc,9066022762,734-805-1544,leila.hernandez@vt.edu,dp,"Dance Team, Robotics Club, A Cappella","Arabic, Tagalog","Country, Hip-Hop, Classical",1,4.9,True,6QRQ422,"per/pers, fae/faer, xe/xem",2
+16,Kareem Davis,B0EhWK3Jwqho,9066010341,958-541-9581,kareem.davis@vt.edu,p,"Anime Club, Debate Team, Film Society",English,"Country, R&B",3,2.3,True,BMZ-3510,"ze/zir, hir/hirs, per/pers",10
+17,Maya Ramirez,2ffm0cqjXBla,9066095107,876-911-2853,maya.ramirez@vt.edu,p,"Drama Society, Chess Club","Chinese, Tagalog","Electronic, R&B",8,2.3,True,RBY-6215,ve/ver,10
+18,Aisha Hernandez,oC2cwjcrIrn5,9066042213,541-268-1008,aisha.hernandez@vt.edu,p,"Drama Society, Robotics Club, Debate Team",French,"Pop, Blues",9,3.9,True,993-DRJ,ey/em,10
+19,Maya Lewis,f7xNwpTBlNNQ,9066043146,500-733-7949,maya.lewis@vt.edu,p,"Chess Club, Drama Society, Robotics Club, Dance Team, Anime Club","German, Tagalog","Rock, Jazz, R&B, Blues",6,3.2,False,,"he/him, hir/hirs, ey/em",8
+20,Amelia Lewis,rnoag83J1J1Z,9066090222,271-519-3979,amelia.lewis@vt.edu,p,"Finance Club, Chess Club","Arabic, English","Hip-Hop, Pop, Reggae, Classical",1,4,False,,"ey/em, hir/hirs",3
+21,Sophia Rodriguez,aG9eNdEQKFfr,9066073350,820-307-5244,sophia.rodriguez@vt.edu,dp,"Debate Team, Anime Club, Finance Club","Arabic, Russian, Korean",Pop,6,4.4,True,4KPV454,"ey/em, ze/zir, he/him",8
+22,Carlos Perez,zH488JjeStnC,9066039297,928-567-9016,carlos.perez@vt.edu,p,"Debate Team, Film Society, Robotics Club, Finance Club","Arabic, Tagalog","Pop, Electronic, Country, R&B, Hip-Hop",8,4.3,False,,they/them,5
+23,Alejandro Torres,akgLALHOHp3f,9066052541,213-565-7562,alejandro.torres@vt.edu,dp,Dance Team,"French, Russian, Spanish","Jazz, R&B",9,3.8,True,525-MLH,"per/pers, ey/em",2
+24,Leila Gonzalez,IMs8fxb5drwG,9066031299,622-930-6673,leila.gonzalez@vt.edu,dp,"Robotics Club, Debate Team, Chess Club","Chinese, Tagalog","Reggae, Blues, Pop, R&B",8,4.9,False,,"per/pers, hir/hirs",8
+25,Malik Sanchez,TnAuBRTmnSHp,9066026263,427-727-7752,malik.sanchez@vt.edu,p,"Dance Team, Robotics Club, A Cappella, Drama Society","Korean, Spanish, French","Jazz, Electronic",4,3,True,570-XFR,"per/pers, ve/ver",3
+26,Malik Davis,cFYlaQviB9T4,9066012549,577-755-3196,malik.davis@vt.edu,dp,"Film Society, A Cappella","Vietnamese, French","Country, Rock",6,1.1,False,,"ze/zir, she/her",10
+27,Emily Taylor,trEN9BFWdsL2,9066081686,942-929-3464,emily.taylor@vt.edu,p,"Finance Club, A Cappella, Drama Society","Spanish, Arabic","Electronic, Hip-Hop",2,3,False,,"ze/zir, they/them",9
+28,Aisha Ramirez,wRsogR9xWSXS,9066085795,966-899-4209,aisha.ramirez@vt.edu,p,"Eco Club, Chess Club, Debate Team, Finance Club, Drama Society",English,"Reggae, Electronic",6,4.3,False,,ve/ver,7
+29,Maya Johnson,50QEKzjX5hEP,9066079349,978-436-9636,maya.johnson@vt.edu,p,"Drama Society, Debate Team","French, Arabic, Vietnamese","Reggae, Jazz, Hip-Hop, Rock, R&B",7,1.2,False,,"fae/faer, he/him",5
+30,Henry Gonzalez,wu1kGRCY9oqh,9066056930,500-632-6177,henry.gonzalez@vt.edu,dp,"A Cappella, Debate Team","Korean, Chinese",Country,9,3.3,True,621-CGE,"hir/hirs, she/her",8
+31,Fatima Clark,zrn6bvT6Z1vc,9066033565,870-938-7531,fatima.clark@vt.edu,dp,"Eco Club, Chess Club, Film Society",French,"Rock, R&B, Electronic",4,3.1,True,1VPL687,"he/him, ze/zir, fae/faer",4
+32,Maya Walker,Ly4DkCr8kbGC,9066012439,288-611-9890,maya.walker@vt.edu,p,"Anime Club, Robotics Club, Drama Society","Tagalog, Spanish, Arabic","Rock, Jazz, R&B, Pop, Reggae",7,4.8,False,,"ve/ver, xe/xem",2
+33,Isabella Rodriguez,687KTC1k4Y8V,9066068541,151-141-9727,isabella.rodriguez@vt.edu,p,"Dance Team, Drama Society, Film Society, Robotics Club, Eco Club","Arabic, Korean, German","Country, Blues, R&B, Electronic",4,3.9,True,0NMY249,"he/him, ey/em",4
+34,Charlotte Sanchez,ktbXzvgTzD6J,9066030348,134-628-8604,charlotte.sanchez@vt.edu,dp,"Film Society, Eco Club","Russian, Chinese, Arabic","Classical, Hip-Hop",6,2.6,False,,hir/hirs,4
+35,Jose Sanchez,QiEQ1Y03o31W,9066090175,460-898-9770,jose.sanchez@vt.edu,dp,"Chess Club, Drama Society, Anime Club, Finance Club, Eco Club",English,"Reggae, Electronic, Hip-Hop, R&B",10,1.4,True,544-OXT,"ey/em, ve/ver, hir/hirs",4
+36,Fatima Ramirez,noi2FSbG5jY2,9066084665,227-786-2000,fatima.ramirez@vt.edu,dp,"Robotics Club, Eco Club, Debate Team, Chess Club, Film Society","Chinese, Arabic, Tagalog","Classical, R&B, Hip-Hop, Rock",8,5,False,,"ze/zir, fae/faer",7
+37,Valentina Taylor,GXYevdp7aMnJ,9066063138,987-523-6990,valentina.taylor@vt.edu,p,"Eco Club, A Cappella, Dance Team, Film Society, Debate Team","Tagalog, Vietnamese, Russian","Jazz, R&B, Pop, Country, Classical",9,2.7,False,,"ze/zir, they/them, ey/em",6
+38,Fatima Lewis,KaSovklddNbb,9066052809,987-591-4982,fatima.lewis@vt.edu,p,"Film Society, Drama Society, A Cappella","Vietnamese, Chinese",Hip-Hop,9,2.9,True,NKF-4469,"ve/ver, he/him, hir/hirs",2
+39,Layla Garcia,OHdmXr33CNpi,9066046515,404-867-2434,layla.garcia@vt.edu,dp,Dance Team,"French, German",Hip-Hop,9,2.5,True,7FSR149,"per/pers, hir/hirs",1
+40,Mateo Garcia,4LPyXTSFzKdz,9066040670,846-197-2954,mateo.garcia@vt.edu,dp,"Anime Club, Finance Club","English, Chinese",R&B,7,4.3,True,CEK-0462,"fae/faer, she/her",8
+41,Kareem Torres,2nQgHw0oEbPE,9066098051,991-450-2208,kareem.torres@vt.edu,dp,"Drama Society, Anime Club, Finance Club, Chess Club, Film Society",German,"Classical, Electronic, Hip-Hop, Country",1,4.8,False,,"hir/hirs, ey/em",9
+42,Zayn Gonzalez,cARHlQmzHIDf,9066047447,800-940-3739,zayn.gonzalez@vt.edu,p,"Robotics Club, Dance Team, A Cappella","English, German","Blues, Rock, Hip-Hop, Electronic",10,5,True,083-UII,per/pers,5
+43,Layla Martinez,27XDdRkrp4vI,9066056403,857-596-1026,layla.martinez@vt.edu,p,"Debate Team, Eco Club",Russian,"Pop, Jazz, Reggae, R&B, Electronic",3,3.5,False,,xe/xem,9
+44,Camila Perez,MxNpxcw4ojzG,9066021773,530-602-5042,camila.perez@vt.edu,dp,"A Cappella, Finance Club, Eco Club, Anime Club",Korean,Reggae,7,1.1,True,8UBM227,she/her,4
+45,William Walker,D4CWuWUVk84y,9066020573,855-992-8593,william.walker@vt.edu,p,"Debate Team, Robotics Club, Eco Club","French, Spanish, Russian",Classical,10,2.6,False,,"fae/faer, they/them, ze/zir",8
+46,Jaden Garcia,u50lQeeUVjfY,9066064532,368-572-5736,jaden.garcia@vt.edu,p,"Chess Club, A Cappella","Vietnamese, German, Spanish",Hip-Hop,3,2.3,True,2QEW418,"they/them, per/pers, ve/ver",8
+47,Imani Williams,G0KhVxA5MMZQ,9066023950,861-495-3932,imani.williams@vt.edu,dp,"Anime Club, Film Society","Tagalog, English, German","Electronic, Reggae, Pop, Rock, Hip-Hop",3,3.4,True,949-OTK,xe/xem,6
+48,Imani Brown,dFpKBRmxjlLf,9066096449,680-836-8403,imani.brown@vt.edu,dp,"Eco Club, A Cappella, Drama Society, Debate Team","Chinese, Russian, German","Reggae, Classical, Jazz, Pop",10,2,True,JSY-3649,"she/her, fae/faer",1
+49,Nia Williams,TRH6xlBnPYMD,9066023674,979-250-2530,nia.williams@vt.edu,dp,"Chess Club, Finance Club, Drama Society","Russian, Chinese, Tagalog","Rock, Reggae, Jazz, Country, Pop",8,4.1,False,,they/them,9
+50,Camila Johnson,cYc9iJ4p5BFn,9066033185,238-318-7868,camila.johnson@vt.edu,dp,"Anime Club, A Cappella, Chess Club, Drama Society","French, Vietnamese, German","R&B, Jazz, Classical",3,3.5,False,,"per/pers, she/her",3
+51,Hassan Clark,4nG1Cmo2LRFV,9066083569,245-890-3191,hassan.clark@vt.edu,p,"Chess Club, A Cappella, Anime Club","Chinese, Tagalog, Russian","Reggae, Jazz",2,4.6,False,,"ve/ver, ze/zir, per/pers",8
+52,Camila Taylor,a2kHwzXBjQKy,9066067193,291-211-8325,camila.taylor@vt.edu,dp,"Film Society, Eco Club, A Cappella, Finance Club, Chess Club",Tagalog,"Electronic, Rock, R&B, Blues",9,3.9,True,AFS-3586,fae/faer,8
+53,Aisha Clark,L68DxBq6nWSw,9066095828,302-934-5392,aisha.clark@vt.edu,dp,"Chess Club, Dance Team, Debate Team, Anime Club","Korean, English","Blues, Pop, Hip-Hop, R&B, Electronic",7,2.7,False,,"ze/zir, hir/hirs",6
+54,Fatima Walker,LH9WyVCMRsF6,9066020631,924-747-2028,fatima.walker@vt.edu,p,"Robotics Club, Drama Society, Debate Team, Chess Club, Eco Club",Chinese,"R&B, Hip-Hop, Reggae",3,4.1,True,2CPY731,"per/pers, she/her, fae/faer",4
+55,Amir Martinez,rPqjKe5i372V,9066065889,435-655-2678,amir.martinez@vt.edu,p,Debate Team,"Arabic, French","Electronic, Hip-Hop, Reggae, Country",2,2,True,BGN-4980,they/them,9
+56,Layla Jones,Nn2P4Li25f8y,9066021610,557-657-3032,layla.jones@vt.edu,p,"Finance Club, Film Society","Russian, English, Korean",Rock,10,4.3,False,,"ve/ver, ze/zir",10
+57,Camila Garcia,jlt46nxG4Zn5,9066084952,799-227-9424,camila.garcia@vt.edu,p,"Drama Society, Anime Club, Debate Team, Robotics Club, Dance Team","Spanish, Russian","Hip-Hop, Country, R&B, Pop, Reggae",4,1.1,False,,"per/pers, xe/xem",7
+58,Santiago Walker,9yTfOYWYELdp,9066069287,958-534-9031,santiago.walker@vt.edu,p,A Cappella,Spanish,Reggae,10,3.7,False,,"he/him, she/her",8
+59,Kareem Perez,XvMbkJpzQGBE,9066073296,324-102-4013,kareem.perez@vt.edu,p,"Chess Club, Robotics Club, A Cappella","Russian, Korean",Jazz,5,2.3,False,,"ey/em, ze/zir, she/her",3
+60,Camila Martinez,e17ggEx0zzVH,9066055251,180-550-6566,camila.martinez@vt.edu,p,"A Cappella, Eco Club","Spanish, Korean","Hip-Hop, Country, Jazz",6,1.8,False,,"they/them, xe/xem",10
+61,Layla Torres,mftohrB0wLIo,9066020007,127-390-4085,layla.torres@vt.edu,dp,"Dance Team, Film Society","Russian, Arabic","Reggae, Classical",5,1.4,False,,"hir/hirs, ze/zir",1
+62,Ximena Walker,JNCE4TaHqH1S,9066097417,150-112-6835,ximena.walker@vt.edu,p,"Robotics Club, Eco Club, A Cappella","Arabic, Vietnamese, Tagalog","Electronic, Hip-Hop, Classical, Rock, Pop",2,4.6,False,,"ey/em, ve/ver, hir/hirs",5
+63,Camila Gonzalez,o55uOjRPxie1,9066063901,425-937-3934,camila.gonzalez@vt.edu,p,"Anime Club, A Cappella, Dance Team, Robotics Club, Chess Club",Korean,"Blues, Country",9,1.1,False,,"ey/em, per/pers",8
+64,Hassan Johnson,OsdhMVHgssi6,9066062492,720-673-8572,hassan.johnson@vt.edu,p,"Film Society, Robotics Club, Debate Team","German, Korean, Tagalog","Reggae, Electronic, Hip-Hop, Jazz, Classical",10,1.2,False,,he/him,1
+65,Sophia Sanchez,ITlmIHtTevg8,9066032982,966-245-6071,sophia.sanchez@vt.edu,p,"Finance Club, Robotics Club, Anime Club, Eco Club","Chinese, Arabic",Hip-Hop,4,2.1,True,296-TLK,"they/them, per/pers, fae/faer",7
+66,Layla Brown,K5HolgTcdIVX,9066068151,550-883-9462,layla.brown@vt.edu,p,Robotics Club,Spanish,"Electronic, Classical, Reggae",4,4.5,True,DEX-4982,"he/him, per/pers",10
+67,Malik Lewis,asxFeh2VzTT8,9066081487,644-756-2491,malik.lewis@vt.edu,dp,"Film Society, Chess Club, Robotics Club, Dance Team, Anime Club",Arabic,"Rock, Country, Classical, Reggae, Electronic",10,1.6,True,2ICM822,"per/pers, xe/xem, she/her",6
+68,Kendrick Gonzalez,FW27NnxU7NME,9066023192,355-671-8419,kendrick.gonzalez@vt.edu,dp,"Anime Club, Film Society, Chess Club",Russian,"Pop, Rock, Jazz, Hip-Hop, R&B",7,2.7,False,,"ze/zir, they/them",8
+69,Kiana Taylor,iFmrC1BoWeCt,9066081048,502-427-1771,kiana.taylor@vt.edu,dp,"Finance Club, Robotics Club","Russian, Arabic, French","R&B, Electronic, Country, Blues, Jazz",9,2.8,False,,"ve/ver, they/them, she/her",1
+70,Mariana Johnson,eRpRG921kzM9,9066045002,764-699-4208,mariana.johnson@vt.edu,dp,"Dance Team, Debate Team","French, Korean, Arabic",R&B,8,3.6,True,XVV-0351,ve/ver,9
+71,Kareem Johnson,ODaqd9oVU2TN,9066081211,758-750-3475,kareem.johnson@vt.edu,p,Finance Club,"Arabic, French, Vietnamese","Pop, Rock, Country, Hip-Hop",3,1.2,False,,"ey/em, hir/hirs, ze/zir",5
+72,Mariana Smith,NWc8IcpKrtVJ,9066061093,551-121-6102,mariana.smith@vt.edu,dp,"Dance Team, A Cappella, Anime Club, Debate Team",Korean,"Country, Hip-Hop",5,3,True,EQI-0753,"ze/zir, ey/em",6
+73,Zion Jones,QJnc1HxgtDGU,9066087756,809-526-5617,zion.jones@vt.edu,dp,Anime Club,"Arabic, Russian","R&B, Rock, Pop",1,2.7,True,585-YGN,he/him,8
+74,Carlos Sanchez,qXE8ylY2LFqO,9066092394,810-671-8679,carlos.sanchez@vt.edu,dp,"Debate Team, Film Society, Drama Society","Chinese, Korean, English","Country, Classical, Reggae",4,1.3,True,YHG-9301,they/them,8
+75,Amir Lewis,NIuHRq8r0WAw,9066031931,396-465-3990,amir.lewis@vt.edu,dp,"Eco Club, Dance Team, Robotics Club, Debate Team, Finance Club","Korean, Russian, French","R&B, Classical, Reggae, Rock, Blues",4,4.5,True,EVG-9515,"xe/xem, hir/hirs, ze/zir",6
+76,Isabella Taylor,QzfYbKGRfdyz,9066071224,201-445-3208,isabella.taylor@vt.edu,p,Debate Team,"Spanish, Korean, French",Country,4,3.4,True,KKO-2973,"hir/hirs, xe/xem, ey/em",2
+77,Hassan Walker,eVq6na8UFEHf,9066053742,994-980-4140,hassan.walker@vt.edu,p,"Film Society, Eco Club, Robotics Club, A Cappella",Russian,"Jazz, Rock, Blues, Classical, Reggae",8,4.7,True,DJZ-9281,ey/em,9
+78,Aisha Brown,EMdCCd77EzPy,9066027705,877-323-3283,aisha.brown@vt.edu,p,"Chess Club, Debate Team, Film Society","Chinese, French","Blues, Rock",3,5,False,,"hir/hirs, fae/faer, xe/xem",9
+79,Kiana Rodriguez,g4kb1P92Comt,9066066712,375-760-6972,kiana.rodriguez@vt.edu,p,"Dance Team, Chess Club",Arabic,Blues,5,1.6,True,PWI-8112,"fae/faer, ey/em",4
+80,Imani Garcia,lkkOax4ipGtD,9066063540,570-653-8698,imani.garcia@vt.edu,dp,"Chess Club, Finance Club",German,R&B,6,4.9,True,CXZ-9726,"ze/zir, ey/em",5
+81,Santiago Clark,fa6JpEAtuf4D,9066078509,422-358-1214,santiago.clark@vt.edu,p,Drama Society,"Arabic, Korean, English",Pop,1,4.4,False,,"they/them, he/him",8
+82,Amelia Sanchez,qQbDBmjIgFKg,9066078408,161-318-4413,amelia.sanchez@vt.edu,dp,"Robotics Club, Dance Team, Film Society, Chess Club, Drama Society","Spanish, Arabic, Chinese",Reggae,3,1.7,True,AGM-0945,"ze/zir, ve/ver",8
+83,Aaliyah Smith,VRsQqRLsEGpO,9066057847,919-319-4591,aaliyah.smith@vt.edu,dp,"A Cappella, Finance Club","Russian, Chinese, French","Classical, Rock, Blues, Reggae, Pop",6,3.9,True,SCN-0788,"xe/xem, per/pers",1
+84,Malik Walker,lHkTtyB7UnIm,9066023809,483-300-9945,malik.walker@vt.edu,p,"Chess Club, Debate Team, Robotics Club","French, English","Reggae, Country, Blues, Pop",8,1.3,False,,"she/her, ey/em",2
+85,Nia Torres,kztQRgMOTezK,9066077138,984-696-4007,nia.torres@vt.edu,p,"Chess Club, Dance Team","Spanish, Chinese","Reggae, Hip-Hop, Pop, Electronic",8,1.3,True,6GBH523,"ze/zir, they/them, she/her",2
+86,Santiago Johnson,QpJc1QQjrppW,9066023882,354-711-3748,santiago.johnson@vt.edu,dp,"Robotics Club, Chess Club",German,"Rock, Country, Classical",6,1.9,True,AZD-0629,per/pers,5
+87,Mateo Rodriguez,i4XGNm6CAdHw,9066045043,710-674-7233,mateo.rodriguez@vt.edu,p,"Eco Club, Dance Team, Finance Club, Film Society","English, Vietnamese, Tagalog",Blues,8,3.2,True,777-AJA,they/them,10
+88,Leila Johnson,zuX65f04PAzx,9066026833,845-102-3514,leila.johnson@vt.edu,p,"Eco Club, Debate Team, Chess Club","Chinese, German",Reggae,7,4.5,True,RVS-5496,fae/faer,3
+89,Amelia Clark,vmRbwZyGBeBG,9066029318,233-557-8321,amelia.clark@vt.edu,dp,"Eco Club, A Cappella","English, Arabic, Chinese","Electronic, Reggae, Country",4,2.5,False,,she/her,1
+90,Oliver Jones,cbJ4TWsQeXE0,9066091170,654-215-3953,oliver.jones@vt.edu,p,"Chess Club, Film Society","French, Arabic","Hip-Hop, Pop, Classical, R&B, Rock",3,2.3,True,3YOV263,fae/faer,2
+91,Alejandro Gonzalez,1oWpaHNT4be9,9066067122,729-353-8144,alejandro.gonzalez@vt.edu,p,"Anime Club, Eco Club, Dance Team",English,Classical,10,3.4,True,2QAG087,"ze/zir, fae/faer, she/her",10
+92,Kendrick Rodriguez,OdHSf5VLBakM,9066026225,946-510-9932,kendrick.rodriguez@vt.edu,p,"Anime Club, Debate Team, Robotics Club",Arabic,"Blues, Electronic, Reggae, Country",4,1.9,False,,hir/hirs,10
+93,Ximena Smith,IY3DCAtb99iV,9066016877,890-180-8717,ximena.smith@vt.edu,dp,Drama Society,"Korean, Tagalog","Jazz, Hip-Hop, Reggae",3,1.3,False,,they/them,9
+94,Kendrick Lewis,VT4OpwpVcmb9,9066053466,406-315-3613,kendrick.lewis@vt.edu,dp,"A Cappella, Eco Club, Debate Team, Finance Club, Drama Society","Arabic, Tagalog","Country, Jazz, Blues, Classical",4,2.6,True,NMS-3028,"they/them, per/pers",4
+95,Jaden Lewis,PXwJvZujEXFn,9066074282,814-508-4841,jaden.lewis@vt.edu,dp,"Dance Team, Finance Club, A Cappella","French, German",R&B,8,3.7,False,,"she/her, ey/em",9
+96,William Smith,JbqgY805R4hP,9066090859,142-539-6306,william.smith@vt.edu,p,Film Society,Korean,Rock,9,3.5,True,622-HPT,"she/her, xe/xem, ze/zir",4
+97,Charlotte Ramirez,7bz05SrLQvpU,9066020299,121-736-5160,charlotte.ramirez@vt.edu,dp,"Robotics Club, Debate Team","Spanish, Korean, Russian","R&B, Jazz, Reggae",3,3.9,True,4JFA686,"ey/em, she/her, fae/faer",10
+98,Fatima Davis,99FIUDJVKg20,9066020595,636-465-2693,fatima.davis@vt.edu,p,"Robotics Club, Chess Club, Film Society, A Cappella",Arabic,"Classical, Jazz",2,3.8,False,,"xe/xem, they/them, ze/zir",1
+99,Sophia Smith,Xldztu3FD8gY,9066025989,817-855-2737,sophia.smith@vt.edu,dp,"Debate Team, Film Society, A Cappella, Anime Club, Drama Society","German, Russian, Chinese","Jazz, Classical",5,4.3,False,,fae/faer,5
+100,Hassan Gonzalez,nesbaFWLETKd,9066013078,873-882-1638,hassan.gonzalez@vt.edu,dp,"Finance Club, Debate Team, Chess Club, A Cappella, Film Society","Korean, German","Rock, Jazz, Blues, Reggae",6,4.6,False,,"xe/xem, fae/faer",3
+101,Valentina Martinez,N4YX4zkI76NU,9066032380,517-167-1724,valentina.martinez@vt.edu,dp,"Robotics Club, Chess Club, Finance Club, Anime Club, Eco Club","Spanish, Vietnamese",Hip-Hop,4,4,False,,"they/them, xe/xem, ve/ver",5
+102,Zayn Sanchez,VRswcrIBsjlE,9066090046,760-653-6579,zayn.sanchez@vt.edu,p,"Anime Club, Drama Society",Russian,"Classical, Reggae, Rock, Country, R&B",3,1.4,True,325-TZF,"ey/em, fae/faer",10
+103,Liam Rodriguez,lfnm4BRrBRfw,9066052762,944-776-9593,liam.rodriguez@vt.edu,dp,"Robotics Club, Film Society, Eco Club, Finance Club, A Cappella","German, French","Country, Classical",7,2,True,0ZKU513,"xe/xem, per/pers, they/them",2
+104,Valentina Clark,ZElmS7zqQqzy,9066011708,317-401-5144,valentina.clark@vt.edu,dp,"A Cappella, Chess Club, Finance Club",Chinese,"Blues, Classical, Pop, Country, R&B",3,2.9,True,0YHE156,he/him,5
+105,Imani Rodriguez,JMBpwo0Cz40t,9066067574,485-295-7786,imani.rodriguez@vt.edu,dp,"A Cappella, Finance Club, Debate Team",English,"Electronic, Country, Reggae, Blues, Rock",7,3.5,False,,xe/xem,7
+106,Hassan Brown,rQ06lXSwNm4m,9066037973,153-259-1588,hassan.brown@vt.edu,dp,"A Cappella, Finance Club",Vietnamese,"Country, Blues, Rock, Jazz, Pop",4,3.7,True,517-ENR,"they/them, he/him, ey/em",5
+107,Valentina Lewis,LBZyhEO6EKAH,9066075232,474-156-9453,valentina.lewis@vt.edu,dp,"Robotics Club, Dance Team, Drama Society, Finance Club, Chess Club","Spanish, Vietnamese, Russian","Blues, Electronic, Hip-Hop, Pop",7,3.6,True,940-MNN,ze/zir,3
+108,Charlotte Lopez,TvuEGKh3DzIx,9066097425,374-825-3195,charlotte.lopez@vt.edu,dp,"Chess Club, Anime Club, Film Society, Dance Team, Eco Club",Russian,"R&B, Jazz",1,2.1,False,,"they/them, ve/ver, she/her",8
+109,Mateo Clark,ydbZsD9W6GlD,9066064852,543-523-4989,mateo.clark@vt.edu,p,"Debate Team, Chess Club, A Cappella","French, Vietnamese, Spanish","Classical, Hip-Hop, Country, Pop",7,3.6,False,,"xe/xem, per/pers, they/them",9
+110,Nia Hernandez,FwLI21Xfeybo,9066094121,535-306-1535,nia.hernandez@vt.edu,dp,Debate Team,Spanish,R&B,1,3.5,True,0KMQ325,she/her,9
+111,Carlos Walker,t2sWK6z0E7hu,9066049095,788-517-2206,carlos.walker@vt.edu,p,"Robotics Club, A Cappella, Chess Club, Anime Club","English, Arabic","Hip-Hop, Classical, Electronic",1,1.7,True,737-TPZ,"fae/faer, he/him",1
+112,Alejandro Johnson,tI9KsbDxrBYP,9066035563,669-991-2431,alejandro.johnson@vt.edu,p,"Eco Club, Chess Club, Film Society","Spanish, Russian",R&B,9,2.7,False,,"hir/hirs, ze/zir",6
+113,Camila Jones,Te2uefyUyrnG,9066012143,616-873-8898,camila.jones@vt.edu,dp,"Debate Team, Finance Club, Film Society",Korean,"Jazz, Hip-Hop, Classical, Electronic, Country",2,4.4,True,5KXF431,"he/him, hir/hirs, ey/em",8
+114,Hassan Rodriguez,TKe8phl4bxCr,9066030206,968-460-6816,hassan.rodriguez@vt.edu,p,"Eco Club, Debate Team",Arabic,"Country, Classical, Hip-Hop",8,2.7,False,,ze/zir,6
+115,Isabella Martinez,vmzxmxSB47So,9066036086,942-729-8184,isabella.martinez@vt.edu,p,"Chess Club, Robotics Club","English, French","Hip-Hop, Rock, Country",3,2.9,True,110-ZUN,she/her,3
+116,Charlotte Torres,zDYrY9J8rXUJ,9066080841,580-851-4142,charlotte.torres@vt.edu,p,"Debate Team, Film Society, A Cappella, Drama Society",Spanish,"Reggae, Jazz, R&B, Blues",6,1.9,False,,"he/him, ze/zir, they/them",10
+117,Amelia Gonzalez,QKaUi2rO3o5Y,9066052942,184-624-3256,amelia.gonzalez@vt.edu,p,"Drama Society, Robotics Club, Debate Team, Film Society, Anime Club","English, Vietnamese, Tagalog","Rock, Blues, Reggae",1,4.9,False,,"xe/xem, he/him, they/them",8
+118,Jaden Lopez,xDYYrqnQ7gLo,9066081651,527-320-5066,jaden.lopez@vt.edu,dp,"Finance Club, Robotics Club, Dance Team, Anime Club, Chess Club",Arabic,"R&B, Classical, Rock, Pop",3,2.9,False,,"hir/hirs, ey/em",2
+119,Leila Smith,jfCHY2ULgj0Q,9066023914,538-610-4144,leila.smith@vt.edu,p,"Drama Society, A Cappella","Russian, Spanish, Chinese","Hip-Hop, Reggae",6,3.3,True,440-XMR,"ze/zir, xe/xem",5
+120,Layla Sanchez,pxlrvcJ75yFH,9066016987,235-964-1334,layla.sanchez@vt.edu,dp,"Eco Club, A Cappella, Film Society, Chess Club, Finance Club","French, German","Pop, Electronic, Country, Blues, Rock",1,1,True,968-JJM,they/them,2
+121,Carlos Davis,Q7XcZqQcp7O3,9066028026,637-712-2985,carlos.davis@vt.edu,dp,Finance Club,"Vietnamese, Russian, Korean",Electronic,6,1.1,False,,"xe/xem, they/them, hir/hirs",4
+122,Valentina Hernandez,6sMZIaFPjce4,9066023504,613-805-6389,valentina.hernandez@vt.edu,dp,"Debate Team, Eco Club, Chess Club, Finance Club",Vietnamese,"Country, Reggae, Classical, Pop, Electronic",3,4.7,True,856-PUR,"ze/zir, ey/em, he/him",2
+123,Henry Lewis,GuXl73uDxgvt,9066052766,579-394-7133,henry.lewis@vt.edu,dp,"A Cappella, Drama Society, Debate Team, Robotics Club, Chess Club",Spanish,"Pop, Rock",2,1.2,True,046-TFY,"ey/em, ve/ver",9
+124,Carlos Lopez,rlvbwGktwxuw,9066027362,235-264-3916,carlos.lopez@vt.edu,p,"Eco Club, Anime Club","French, Tagalog, German","Electronic, R&B",4,1,True,JVW-0508,"xe/xem, fae/faer",10
+125,Kiana Gonzalez,tnfkNgEIckbh,9066086426,583-188-7940,kiana.gonzalez@vt.edu,p,"Dance Team, Anime Club, Finance Club, Film Society","Vietnamese, Chinese","Hip-Hop, Country",9,1.8,False,,"ey/em, he/him, per/pers",5
+126,Isabella Sanchez,IIOowur6MjE4,9066019276,207-299-2987,isabella.sanchez@vt.edu,dp,"A Cappella, Debate Team, Drama Society, Chess Club","English, Vietnamese","Blues, Jazz, Rock, Electronic, R&B",1,3.2,False,,"fae/faer, they/them",3
+127,Kendrick Johnson,wp6TShK0c0K5,9066074925,377-358-2917,kendrick.johnson@vt.edu,p,Dance Team,"Korean, Russian, Chinese",R&B,7,1.4,True,DNF-2874,"she/her, he/him",4
+128,Carlos Clark,G0F3J5A7AEeq,9066015957,213-393-4508,carlos.clark@vt.edu,p,"A Cappella, Chess Club, Finance Club, Debate Team",French,Country,5,2.8,True,6XDN343,"ve/ver, ze/zir",3
+129,Jose Martinez,H4SG6aREmgKu,9066029848,466-110-6601,jose.martinez@vt.edu,p,Robotics Club,"Tagalog, German, Russian",R&B,5,1.1,False,,"ey/em, he/him, they/them",3
+130,Layla Ramirez,bSzeBZumt6hz,9066011379,791-789-8953,layla.ramirez@vt.edu,p,"Robotics Club, A Cappella, Anime Club, Chess Club, Film Society","French, Spanish, Vietnamese","Hip-Hop, Electronic",8,2.3,False,,"she/her, they/them, ey/em",5
+131,Alejandro Clark,2fwwM5ytTfD9,9066042612,320-490-5564,alejandro.clark@vt.edu,dp,"Debate Team, A Cappella, Drama Society, Anime Club","French, Arabic, German","Blues, Jazz",8,3.4,False,,"she/her, ze/zir",6
+132,Kareem Garcia,L7KrgH1V22Kt,9066029657,924-855-4344,kareem.garcia@vt.edu,dp,"Debate Team, A Cappella","Tagalog, Vietnamese","Reggae, Electronic, Country, Pop",9,4.7,True,496-HCM,ve/ver,5
+133,Oliver Rodriguez,mK5PVIWEG3gC,9066081960,474-375-1731,oliver.rodriguez@vt.edu,p,Debate Team,Tagalog,"Classical, Electronic, Jazz",8,2.4,False,,ve/ver,5
+134,Malik Clark,cIyoLPqM02cU,9066012545,949-597-8007,malik.clark@vt.edu,dp,"Finance Club, A Cappella",Vietnamese,Classical,8,1.4,False,,"xe/xem, ey/em, they/them",4
+135,Zion Taylor,b7Xe7ebHM9qQ,9066014520,216-736-2919,zion.taylor@vt.edu,dp,"A Cappella, Film Society, Dance Team",Vietnamese,"R&B, Electronic",2,2.1,True,680-FIS,"they/them, hir/hirs, xe/xem",5
+136,Valentina Garcia,MfUAunoeg7M9,9066092185,408-366-5996,valentina.garcia@vt.edu,dp,"Eco Club, Film Society, Drama Society, Dance Team, Debate Team","English, Korean, Chinese","Reggae, Jazz, Electronic",7,4.3,True,DKU-8620,ze/zir,8
+137,Zayn Lopez,6KQCqkRRBOUa,9066075304,910-462-4106,zayn.lopez@vt.edu,dp,"A Cappella, Chess Club, Drama Society",Chinese,"R&B, Blues, Hip-Hop, Classical, Pop",4,2,True,UBH-3849,fae/faer,2
+138,Lucia Clark,mprwximZe9df,9066082934,328-696-5119,lucia.clark@vt.edu,dp,"A Cappella, Robotics Club, Dance Team, Drama Society","English, German, Russian","R&B, Blues, Country",3,3.2,True,2NVU894,per/pers,10
+139,Charlotte Davis,szbnljg70GdQ,9066028222,403-935-8474,charlotte.davis@vt.edu,p,A Cappella,Vietnamese,Jazz,5,1.5,False,,"they/them, he/him",9
+140,Jaden Clark,SSwgjEF6JfKT,9066052337,859-688-8788,jaden.clark@vt.edu,dp,"A Cappella, Dance Team","Spanish, Tagalog, English","Electronic, R&B, Pop, Blues",4,3.6,False,,per/pers,3
+141,Alejandro Davis,1HptNE25UAdX,9066048629,683-527-2523,alejandro.davis@vt.edu,dp,A Cappella,"Spanish, Vietnamese, Russian","Blues, Rock",1,3.4,False,,"ey/em, ze/zir",1
+142,Tariq Martinez,0VXH2i7NibwY,9066098184,678-422-2435,tariq.martinez@vt.edu,p,"Debate Team, Drama Society",Arabic,"Electronic, Classical, Hip-Hop",2,3.6,False,,she/her,6
+143,Zion Torres,ELYzNa1os19J,9066053213,727-772-8592,zion.torres@vt.edu,dp,"Dance Team, Film Society, Eco Club, Robotics Club, A Cappella","Tagalog, Chinese, Arabic","R&B, Reggae, Classical, Jazz",10,1.7,False,,"hir/hirs, ve/ver, ey/em",1
+144,Aisha Torres,IvQPPKSBD8tb,9066048161,820-193-4428,aisha.torres@vt.edu,dp,"A Cappella, Chess Club","Arabic, English, Vietnamese",Electronic,2,1.4,True,366-YIL,ve/ver,10
+145,Malik Jones,eSL4sc5jrcud,9066014033,664-502-7821,malik.jones@vt.edu,p,A Cappella,"Russian, Spanish","Hip-Hop, R&B",7,2.4,True,CHF-7379,"they/them, xe/xem",4
+146,Tariq Johnson,WthFlCoC4fKD,9066087714,109-420-5404,tariq.johnson@vt.edu,dp,"Film Society, Anime Club, Dance Team, Drama Society, Eco Club",Korean,"Pop, Reggae, Rock",10,3.2,False,,"hir/hirs, xe/xem",3
+147,William Gonzalez,NldYy3O1GcBE,9066047128,753-637-5181,william.gonzalez@vt.edu,dp,"Drama Society, Anime Club","Vietnamese, German, Chinese","Reggae, Blues",5,2.7,False,,"ze/zir, fae/faer",8
+148,Camila Brown,CBRklFofxWnk,9066065994,424-187-3229,camila.brown@vt.edu,p,"Robotics Club, Anime Club, Dance Team, Finance Club, Chess Club",Tagalog,"Hip-Hop, Jazz, Rock, R&B",7,1.5,False,,"per/pers, he/him",6
+149,Sophia Perez,LIHrb6HEx1lL,9066074828,772-790-1731,sophia.perez@vt.edu,p,"Robotics Club, Finance Club, Dance Team, Anime Club",Russian,"Hip-Hop, Jazz, Rock",6,4,False,,"she/her, fae/faer",4
+150,Nia Jones,eoejIN26Nsoi,9066078416,138-454-8204,nia.jones@vt.edu,p,"Chess Club, Debate Team, A Cappella, Drama Society, Finance Club","Tagalog, Russian, German","Reggae, Country",4,3.6,True,5DDO699,"xe/xem, she/her",3
+151,Oliver Martinez,StAtC5HVoXEk,9066082714,696-503-2080,oliver.martinez@vt.edu,p,Anime Club,French,"Hip-Hop, R&B",8,1,False,,"xe/xem, per/pers, ve/ver",6
+152,Omar Gonzalez,5Ply185MEczS,9066018690,816-227-8915,omar.gonzalez@vt.edu,dp,"Finance Club, Debate Team",German,"Country, Classical",9,3.9,True,GTA-6897,"ey/em, she/her, fae/faer",8
+153,William Torres,zIaS9JwJ6xRi,9066048784,325-851-8241,william.torres@vt.edu,dp,"Dance Team, Debate Team, Film Society, A Cappella, Eco Club","Russian, French","Rock, Classical, Hip-Hop, Pop",10,2,False,,"ze/zir, ve/ver",1
+154,Hassan Smith,JwlFHvyw2dX4,9066051085,337-958-9804,hassan.smith@vt.edu,dp,"Finance Club, Dance Team, Chess Club, Robotics Club",Arabic,"Country, Reggae, Electronic",1,2.1,True,506-CXA,"she/her, ze/zir, fae/faer",5
+155,Camila Lewis,RPYzBGXIpSC9,9066099035,650-963-8088,camila.lewis@vt.edu,dp,"Chess Club, Dance Team, Debate Team","Chinese, Vietnamese","Pop, Blues, Rock, Jazz",4,4.7,False,,he/him,9
+156,Amir Johnson,FQpFaAb3J3OD,9066098863,154-700-1994,amir.johnson@vt.edu,p,"Robotics Club, Film Society, A Cappella, Debate Team, Anime Club","Russian, German, Tagalog","Electronic, Hip-Hop",6,3.1,True,KEY-0783,she/her,10
+157,Layla Davis,hMAaDbbAwA66,9066092690,471-446-4786,layla.davis@vt.edu,dp,"Eco Club, Robotics Club","Spanish, French",Electronic,3,2.8,False,,"per/pers, they/them",4
+158,Valentina Davis,rfyNOcH7YIRY,9066037451,797-870-8481,valentina.davis@vt.edu,p,Robotics Club,Vietnamese,Rock,3,3.2,True,695-WHW,"he/him, fae/faer",6
+159,Charlotte Smith,gjYnOZ5XDF0H,9066053524,368-554-5873,charlotte.smith@vt.edu,p,Dance Team,"Chinese, Korean","Electronic, Blues, Jazz",6,4.4,True,YWX-8685,"he/him, ey/em, she/her",10
+160,Oliver Lewis,Yqe7oX1KlUKG,9066025435,294-900-6137,oliver.lewis@vt.edu,p,"Debate Team, Anime Club, Dance Team, Film Society, Chess Club",German,"Hip-Hop, Country, Jazz",7,3,False,,they/them,3
+161,Charlotte Perez,p0YSCoNy6tzN,9066021375,350-357-7517,charlotte.perez@vt.edu,dp,"A Cappella, Finance Club, Eco Club, Debate Team","Tagalog, German, Korean","Classical, Rock, Country, Jazz, Blues",10,2.9,False,,xe/xem,7
+162,Valentina Lopez,R88m9Te3bYC8,9066012190,262-138-2603,valentina.lopez@vt.edu,dp,"Chess Club, Drama Society, Film Society, Dance Team",English,"Hip-Hop, Classical, Jazz, Blues, R&B",8,1.9,True,JOV-6360,"per/pers, ey/em, xe/xem",4
+163,Nia Smith,oXJaN7QxdaxA,9066022307,770-851-3715,nia.smith@vt.edu,dp,"Dance Team, Eco Club, Chess Club, Debate Team","Korean, Spanish","Country, Electronic",3,4.2,True,7KTG739,per/pers,7
+164,Amelia Perez,0Gx0XCDKn80C,9066088267,735-560-9662,amelia.perez@vt.edu,p,"Drama Society, Finance Club, Eco Club, A Cappella, Anime Club","Vietnamese, Korean","Pop, Jazz, Hip-Hop, Country, Reggae",2,3.1,False,,she/her,5
+165,Aisha Taylor,3Xoi2IZgluZq,9066019643,829-328-8099,aisha.taylor@vt.edu,dp,"A Cappella, Finance Club, Drama Society, Eco Club, Dance Team","Korean, Arabic","Classical, Rock, R&B",5,1.3,True,584-QKT,he/him,5
+166,Sophia Gonzalez,QXJu0cNUlIQV,9066020145,554-837-4341,sophia.gonzalez@vt.edu,p,"A Cappella, Eco Club, Film Society",Russian,"Hip-Hop, Rock",6,2.9,True,106-VRU,"ey/em, she/her",7
+167,Hassan Martinez,V7TqTaqcIK4V,9066091512,367-516-3126,hassan.martinez@vt.edu,p,"Robotics Club, Drama Society, Film Society, Debate Team","Tagalog, Chinese","Classical, Electronic, R&B, Country",7,2.5,True,9VLT370,"per/pers, she/her, ze/zir",8
+168,William Sanchez,xSV8xBvN1crn,9066032055,269-206-1648,william.sanchez@vt.edu,p,Finance Club,"Vietnamese, English, Spanish","Rock, Reggae, Blues, Pop",9,3.7,False,,"he/him, ze/zir",4
+169,Lucia Rodriguez,etNycwkSZcim,9066081430,678-160-3872,lucia.rodriguez@vt.edu,p,"Eco Club, Dance Team","Chinese, French","Reggae, Pop, Blues",9,4.3,True,320-KLS,"he/him, fae/faer, ey/em",8
+170,Aaliyah Martinez,gU0dWlFsECx2,9066074181,221-923-2562,aaliyah.martinez@vt.edu,dp,"Finance Club, Debate Team","Korean, Vietnamese, Chinese","Jazz, R&B, Blues, Classical",8,2.2,False,,"he/him, hir/hirs",1
+171,Tariq Williams,OaixttacNVYt,9066048711,446-124-8301,tariq.williams@vt.edu,dp,A Cappella,English,"Jazz, Rock, Reggae, Pop",8,2.2,True,642-YWB,fae/faer,8
+172,Imani Martinez,jfA6SGyUxx0y,9066053232,385-838-3709,imani.martinez@vt.edu,p,"Drama Society, Debate Team, Eco Club, Dance Team, Film Society",German,"Pop, Hip-Hop",9,1.4,False,,"she/her, xe/xem",3
+173,Henry Sanchez,ty3jRmXtRzgn,9066043781,829-814-9504,henry.sanchez@vt.edu,p,"Anime Club, Robotics Club",Korean,"Electronic, Blues, Classical, Rock",3,2.4,True,JCY-1761,she/her,9
+174,James Clark,decNWyyEfKXa,9066060307,490-880-6728,james.clark@vt.edu,dp,"Anime Club, Chess Club","Chinese, German","Reggae, Classical, Rock, Pop, Electronic",10,1.6,True,683-CTI,ze/zir,6
+175,Valentina Ramirez,AqTru2e90JyO,9066035668,375-470-4195,valentina.ramirez@vt.edu,p,A Cappella,Vietnamese,"Rock, R&B, Electronic",8,3.9,False,,"ve/ver, ze/zir",4
+176,Oliver Williams,1k4PKZCQUj0M,9066032553,142-788-6501,oliver.williams@vt.edu,dp,"Eco Club, Dance Team, Drama Society",Russian,"Reggae, Pop, Hip-Hop, R&B",5,2.3,True,3PDX057,"he/him, xe/xem",3
+177,Emily Hernandez,fbAgO85WOXqM,9066069093,110-976-2890,emily.hernandez@vt.edu,dp,"Robotics Club, Chess Club, A Cappella, Drama Society","Tagalog, French","Blues, Electronic",8,3.1,False,,they/them,4
+178,Amelia Brown,sGTlHTNuBRhq,9066077543,189-612-5078,amelia.brown@vt.edu,dp,"Drama Society, Dance Team",Tagalog,"Rock, R&B, Blues, Classical, Hip-Hop",8,3.5,True,GFP-1809,"per/pers, fae/faer, hir/hirs",6
+179,Ximena Rodriguez,lqbq0LI9McV0,9066039859,983-372-7610,ximena.rodriguez@vt.edu,p,"Dance Team, Eco Club, Drama Society, Debate Team","English, German","Classical, Hip-Hop",8,2.7,False,,"ze/zir, per/pers, fae/faer",3
+180,Emily Gonzalez,wSdlYV0mXTC4,9066091511,193-563-6633,emily.gonzalez@vt.edu,dp,"Anime Club, Drama Society, Chess Club, Eco Club, A Cappella","Vietnamese, Korean",Jazz,2,2.6,False,,"he/him, xe/xem, ey/em",4
+181,Mateo Jones,r8N7zgdMXUmd,9066044461,425-432-5243,mateo.jones@vt.edu,p,"Chess Club, Drama Society, A Cappella",Korean,"Country, Electronic",4,2.1,True,2MTA159,"they/them, per/pers",7
+182,Nia Rodriguez,Rsnm20t9hJLX,9066092008,748-941-7640,nia.rodriguez@vt.edu,dp,"Robotics Club, Eco Club","Tagalog, French","R&B, Country",3,4.6,True,8NSH583,"they/them, fae/faer",6
+183,Henry Johnson,RfRcV9RyWqgR,9066069941,658-669-2656,henry.johnson@vt.edu,dp,"Robotics Club, Chess Club, A Cappella, Dance Team, Drama Society","Vietnamese, French","Hip-Hop, R&B, Country, Rock",10,3.8,False,,"she/her, xe/xem",9
+184,Henry Lopez,3bn2uCbetVpK,9066091751,302-524-3743,henry.lopez@vt.edu,p,"Drama Society, Finance Club, Chess Club, Eco Club, Film Society",French,"Classical, Rock, Jazz, Hip-Hop",6,1.2,True,GOL-7395,fae/faer,10
+185,Zayn Walker,XOzCG1pVDyYm,9066024535,758-577-2720,zayn.walker@vt.edu,p,"Debate Team, Film Society, Robotics Club, Finance Club, Dance Team","Arabic, German, Spanish","Blues, Electronic, Classical, Rock",6,2.9,True,1GAE727,"he/him, they/them, xe/xem",5
+186,Mariana Lopez,wlJuRPkx8Nl4,9066042645,613-586-2832,mariana.lopez@vt.edu,p,"Film Society, Finance Club, Robotics Club","Russian, English","Electronic, R&B, Rock, Reggae",5,3.7,True,NVF-7734,"they/them, hir/hirs",7
+187,Kiana Sanchez,3MDLiyYDWbza,9066033656,146-809-1393,kiana.sanchez@vt.edu,dp,"Dance Team, Chess Club, Eco Club","Vietnamese, Russian, English","Hip-Hop, Blues, Electronic, Jazz, Country",10,3.8,False,,they/them,1
+188,Jaden Walker,zVAI6hLL9rIU,9066038761,535-741-3307,jaden.walker@vt.edu,dp,"Dance Team, Anime Club, A Cappella, Finance Club",Vietnamese,"Hip-Hop, Electronic",7,3.2,True,OHO-5792,per/pers,10
+189,Hassan Lewis,HUmPYDmCBpTX,9066088629,200-487-6185,hassan.lewis@vt.edu,dp,"Eco Club, Drama Society, A Cappella","Tagalog, Chinese","Reggae, Classical, Hip-Hop, Electronic",2,4.7,True,729-VBI,"she/her, xe/xem, ze/zir",7
+190,Zayn Clark,ZFe8pR3ODiAE,9066041395,937-419-1005,zayn.clark@vt.edu,p,"Drama Society, Film Society, Robotics Club, Finance Club, Chess Club",Tagalog,"Reggae, Blues",8,3.8,True,3OFA562,she/her,2
+191,William Lewis,ZZX1O8T7yDvc,9066064328,296-629-4647,william.lewis@vt.edu,p,"Anime Club, A Cappella, Film Society","Korean, French",R&B,6,3.5,True,PCB-1715,"ey/em, ze/zir, hir/hirs",2
+192,Ximena Hernandez,Vdvu6LxIYzXZ,9066094562,120-343-9148,ximena.hernandez@vt.edu,p,"Debate Team, Robotics Club","French, Arabic, Russian",Jazz,9,1.8,False,,she/her,7
+193,Carlos Torres,6xpChSWfY8Qq,9066036138,981-251-7682,carlos.torres@vt.edu,dp,"Chess Club, Film Society, Eco Club, Drama Society","Chinese, Korean",Blues,8,3.9,False,,they/them,1
+194,Charlotte Brown,xV3HaqI6qllS,9066034596,701-819-6333,charlotte.brown@vt.edu,dp,"A Cappella, Chess Club",German,"Reggae, R&B, Country",8,2.3,True,SDM-4058,"fae/faer, he/him, they/them",4
+195,Malik Smith,ldSW4IlFTYcM,9066013089,999-334-7709,malik.smith@vt.edu,dp,"Drama Society, Anime Club, Finance Club",Vietnamese,Reggae,5,4.5,False,,"hir/hirs, she/her, ey/em",6
+196,Lucia Martinez,dJvFU6AuJbEL,9066067399,512-479-9438,lucia.martinez@vt.edu,dp,"Dance Team, A Cappella, Eco Club","Arabic, German, Korean","Pop, R&B",9,2.8,False,,she/her,8
+197,Layla Gonzalez,e7PLaXgQzcuQ,9066083787,146-457-3258,layla.gonzalez@vt.edu,dp,"Debate Team, Drama Society, Anime Club, A Cappella","French, Russian",Pop,1,1.7,True,ABZ-6667,"she/her, hir/hirs",3
+198,Alejandro Lopez,kt2qn8MxHJ9p,9066019272,196-774-3177,alejandro.lopez@vt.edu,p,"Drama Society, Robotics Club, Debate Team, Chess Club, Finance Club","Tagalog, Arabic","Blues, Rock, Classical, Electronic, Hip-Hop",8,4.2,False,,"she/her, ve/ver",4
+199,Ximena Ramirez,JW2Ygr0cwePd,9066070264,479-399-5623,ximena.ramirez@vt.edu,dp,A Cappella,"Spanish, Arabic",Classical,3,1.5,True,8BTE377,"he/him, per/pers, she/her",1
+200,Sophia Jones,G7Ar2thoBS1r,9066020069,121-303-2202,sophia.jones@vt.edu,dp,"Robotics Club, Film Society, Debate Team, Chess Club","English, German","Electronic, Country, Hip-Hop, Reggae, Rock",3,1.8,True,ALL-2833,"hir/hirs, ve/ver, ze/zir",9
+201,Amir Gonzalez,X0NuqVszp09O,9066050396,204-343-9866,amir.gonzalez@vt.edu,p,Debate Team,English,"Rock, Reggae, Jazz, Classical, Country",1,3.6,True,2ZBO181,"xe/xem, ve/ver, they/them",1
+202,Aisha Jones,bB7PKY2PZ5fy,9066078014,607-693-5368,aisha.jones@vt.edu,p,"Finance Club, A Cappella, Drama Society, Film Society, Dance Team","Russian, German","Hip-Hop, Blues",1,4.7,True,8ZXN666,she/her,4
+203,Kiana Jones,KDC37mzI2k4T,9066033422,666-198-3303,kiana.jones@vt.edu,p,"Robotics Club, Film Society",Russian,"Blues, Electronic, R&B, Hip-Hop, Classical",10,2.9,True,EXZ-8303,"she/her, he/him, hir/hirs",5
+204,Isabella Davis,RzuCeCfHmWuJ,9066084709,586-955-7119,isabella.davis@vt.edu,dp,"Dance Team, Debate Team, Eco Club, A Cappella, Film Society",Spanish,"Rock, Reggae, Electronic, Blues",9,3.6,True,467-ENW,"per/pers, hir/hirs",3
+205,Mariana Rodriguez,6NgdT2NXPNlx,9066035370,759-805-5290,mariana.rodriguez@vt.edu,p,"Anime Club, Eco Club","German, Arabic","Pop, Rock, Electronic, Hip-Hop, Classical",5,1.8,False,,"fae/faer, ey/em, hir/hirs",8
+206,Henry Hernandez,GmG1JFS2pviw,9066015147,254-739-4762,henry.hernandez@vt.edu,dp,"Robotics Club, Chess Club, Dance Team",German,Country,1,4.9,True,GSS-3720,fae/faer,10
+207,Omar Brown,Dz6im2mKaVGn,9066020980,327-392-9216,omar.brown@vt.edu,dp,"Dance Team, A Cappella","Vietnamese, Korean","Electronic, Reggae, R&B, Hip-Hop",3,2,True,659-RPI,"hir/hirs, ey/em",8
+208,Amelia Torres,8zgPHt7jLVCe,9066062872,143-511-9533,amelia.torres@vt.edu,dp,"Eco Club, Debate Team, Drama Society, Film Society, Finance Club",French,"R&B, Jazz, Rock",10,2.8,True,426-JCT,"she/her, he/him",8
+209,Mariana Garcia,yxBJRH5N3CKS,9066085262,216-816-6574,mariana.garcia@vt.edu,dp,Robotics Club,"Chinese, Vietnamese, French",Rock,9,1.8,True,ONQ-7808,"ze/zir, xe/xem",6
+210,James Taylor,2jw24V3kjkzo,9066027909,423-184-3355,james.taylor@vt.edu,p,"Debate Team, Dance Team","Russian, French","Classical, Pop, Hip-Hop",8,4.2,True,ZOZ-3488,"he/him, ey/em",8
+211,Layla Perez,WctWtreMybSN,9066035409,690-933-4324,layla.perez@vt.edu,p,"Chess Club, Eco Club, Finance Club, A Cappella, Dance Team","French, German, Tagalog",R&B,8,1.4,True,UFC-5003,"ze/zir, xe/xem",7
+212,Fatima Lopez,8p2BPRVq7s5b,9066044659,706-170-6862,fatima.lopez@vt.edu,p,"Drama Society, Debate Team",English,"Rock, Country",4,2.7,True,2NIU903,"ze/zir, she/her",1
+213,Amir Clark,2uaDwJ43EDDO,9066091077,618-455-9813,amir.clark@vt.edu,p,"Robotics Club, Anime Club, A Cappella","Korean, Chinese, Arabic","Hip-Hop, Classical, Rock, Reggae",7,2.7,False,,"hir/hirs, per/pers, he/him",8
+214,Lucia Davis,R6WP8eFF1Fsx,9066036340,806-887-6483,lucia.davis@vt.edu,p,"Dance Team, Finance Club, Chess Club, Drama Society, A Cappella",Korean,"Reggae, Electronic, Hip-Hop, Country",5,2.4,True,WXT-5399,"she/her, fae/faer",9
+215,Hassan Hernandez,sxc2HxcgOkP0,9066051666,423-525-3263,hassan.hernandez@vt.edu,p,"A Cappella, Anime Club","English, French, Vietnamese","Classical, Pop, R&B",4,4.9,True,2YEE058,hir/hirs,10
+216,Tariq Walker,Lx6Xa8obmYw9,9066046795,458-731-6519,tariq.walker@vt.edu,dp,"Anime Club, Drama Society, Chess Club, Debate Team",Tagalog,"Electronic, Hip-Hop",5,1.5,False,,he/him,3
+217,Henry Perez,pKoLEFHeHJC0,9066066582,893-974-2683,henry.perez@vt.edu,p,Anime Club,Russian,"Classical, Electronic, Country, Hip-Hop",7,1.2,False,,ey/em,8
+218,Layla Taylor,42BqCFrhKuI7,9066087548,954-647-1436,layla.taylor@vt.edu,p,"Chess Club, A Cappella, Finance Club","Russian, English, Korean","Electronic, Hip-Hop, Reggae, Jazz, Blues",1,2.6,True,363-SOX,"ve/ver, xe/xem",5
+219,Sophia Taylor,eHUjyvVhLnEc,9066039936,473-507-7985,sophia.taylor@vt.edu,dp,"Anime Club, Finance Club, Dance Team, Eco Club",Chinese,"Pop, Classical, Blues",8,1.1,False,,"ve/ver, per/pers, hir/hirs",8
+220,Henry Taylor,XaPS3r7Qxc5T,9066040443,307-977-1926,henry.taylor@vt.edu,dp,"Finance Club, Chess Club, Robotics Club, Film Society","German, Korean","R&B, Pop, Classical, Blues",3,4.3,True,517-GYP,"they/them, ey/em",6
+221,Carlos Gonzalez,WJP6J0keRo2X,9066047456,149-345-5996,carlos.gonzalez@vt.edu,p,"Dance Team, Anime Club, A Cappella, Drama Society, Robotics Club","Chinese, Tagalog, Russian","Blues, Pop",4,3.6,False,,he/him,8
+222,Nia Johnson,7LObgTduGk2n,9066018894,108-182-4609,nia.johnson@vt.edu,dp,Film Society,Vietnamese,"Jazz, Electronic, Reggae",6,1.3,True,MUY-9307,"per/pers, ve/ver, ze/zir",1
+223,Omar Torres,mvgVFY964lHn,9066043471,487-454-9932,omar.torres@vt.edu,p,"A Cappella, Dance Team, Chess Club, Anime Club",Russian,Electronic,6,3.5,False,,ve/ver,7
+224,Fatima Rodriguez,6shLavii4Gb1,9066032432,933-528-5018,fatima.rodriguez@vt.edu,p,"Film Society, Eco Club, Chess Club","Vietnamese, Arabic, German","Classical, Blues",9,1.1,True,LIF-7525,"xe/xem, fae/faer, hir/hirs",10
+225,Isabella Jones,WWiI1rrViUmA,9066050645,594-806-4724,isabella.jones@vt.edu,dp,"Debate Team, Anime Club, Chess Club, Film Society","German, Arabic, Korean","Jazz, Classical, Hip-Hop",8,1.6,True,903-UHB,they/them,2
+226,Jamal Walker,01bxySlPmGol,9066044323,208-959-2531,jamal.walker@vt.edu,dp,Anime Club,"Chinese, French, Arabic","Jazz, Hip-Hop, R&B, Classical, Blues",10,2.3,True,904-SUF,"ze/zir, hir/hirs, they/them",4
+227,Camila Williams,YyBztfG63Ag7,9066019079,755-470-1834,camila.williams@vt.edu,dp,Chess Club,"English, French, Vietnamese","R&B, Rock, Electronic, Blues, Hip-Hop",2,2.6,False,,she/her,8
+228,Malik Perez,9wzgtDL858Hg,9066063709,888-778-8302,malik.perez@vt.edu,dp,"A Cappella, Debate Team, Anime Club, Dance Team",Chinese,Pop,2,5,True,140-VWL,"per/pers, fae/faer, ze/zir",1
+229,Santiago Sanchez,TaT8ajfRLFR8,9066047555,596-822-9585,santiago.sanchez@vt.edu,p,"Film Society, A Cappella, Anime Club",Korean,"Jazz, Country, Rock, Reggae",6,1.2,False,,"he/him, fae/faer",6
+230,Oliver Lopez,4X3xQC4ecbDa,9066038022,305-908-6782,oliver.lopez@vt.edu,dp,"Eco Club, Dance Team",French,Country,6,4.9,True,FUY-6109,"they/them, ey/em, fae/faer",2
+231,Mariana Walker,7Kk34kGKDEDj,9066072850,292-701-7954,mariana.walker@vt.edu,dp,"Debate Team, Drama Society, A Cappella","German, Arabic","Country, R&B, Blues",9,4.5,False,,"hir/hirs, per/pers",6
+232,Kiana Clark,C4ow3hUECBxB,9066016598,710-299-6494,kiana.clark@vt.edu,p,"Robotics Club, Drama Society","Vietnamese, Chinese",Rock,2,2.5,True,923-KEB,"xe/xem, ve/ver",1
+233,Ximena Perez,18JyPJJtI0Wj,9066047498,639-943-4135,ximena.perez@vt.edu,p,Robotics Club,"Korean, Spanish","Rock, R&B",3,2.3,True,5HGT517,"ey/em, per/pers, hir/hirs",3
+234,Malik Lopez,5IfaF12YJj1A,9066024451,369-916-9578,malik.lopez@vt.edu,dp,"Robotics Club, Debate Team, A Cappella, Film Society","Vietnamese, Arabic","Jazz, Reggae",7,4.7,True,XEN-3911,xe/xem,3
+235,Isabella Ramirez,lnbB462inkun,9066062812,460-560-8459,isabella.ramirez@vt.edu,dp,Chess Club,Spanish,Country,6,2.2,True,429-QZJ,"ve/ver, fae/faer",10
+236,Mateo Davis,1hTT1YE3k926,9066045529,859-355-6637,mateo.davis@vt.edu,p,"Chess Club, Debate Team, Film Society, Eco Club, Drama Society",Spanish,"Jazz, Classical, R&B",1,2.7,True,3WYP952,they/them,10
+237,Tariq Clark,1ucv1bXZxr02,9066015359,372-295-5023,tariq.clark@vt.edu,p,"Anime Club, Finance Club, Eco Club, Dance Team, Film Society","Tagalog, Vietnamese","Country, R&B",9,1.9,True,QES-5206,"xe/xem, ve/ver, per/pers",8
+238,Liam Davis,JPsNRCnzVqEK,9066098233,604-701-9382,liam.davis@vt.edu,dp,"Anime Club, Dance Team, A Cappella, Robotics Club, Debate Team","Arabic, French, English",Hip-Hop,1,4.6,False,,"he/him, xe/xem, she/her",10
+239,Camila Clark,uLvFT5ZMoYiG,9066011104,934-574-8984,camila.clark@vt.edu,dp,"Anime Club, Dance Team, Chess Club",Russian,"Country, Electronic, Classical, Hip-Hop",1,3.8,False,,"ey/em, ve/ver",4
+240,Tariq Taylor,M8oyehc80aCk,9066011373,439-517-4849,tariq.taylor@vt.edu,p,"Debate Team, Chess Club, Finance Club, Anime Club, Dance Team",Vietnamese,Classical,2,1.9,True,6KPD761,hir/hirs,5
+241,Lucia Hernandez,09IMUnB8jAfT,9066016930,764-877-2949,lucia.hernandez@vt.edu,p,"Dance Team, Film Society, Finance Club, Debate Team, Anime Club",French,"Pop, Country",6,2,True,IIP-9151,"per/pers, xe/xem",5
+242,Henry Rodriguez,K07GB7Wbq9BW,9066088135,845-944-7288,henry.rodriguez@vt.edu,p,"Debate Team, Finance Club, Robotics Club, Anime Club, A Cappella","French, English","Jazz, R&B, Classical",6,1.6,False,,ve/ver,4
+243,Jamal Ramirez,9pOTGzn9SqmU,9066053080,400-383-1119,jamal.ramirez@vt.edu,p,"Debate Team, A Cappella, Eco Club, Anime Club, Robotics Club",Korean,"Electronic, Jazz, Blues, Country, Rock",9,4.3,True,9DOM955,ey/em,4
+244,Jose Smith,SghfiradpXBJ,9066012220,331-924-7697,jose.smith@vt.edu,dp,"Anime Club, Film Society, Eco Club","English, Russian",Reggae,9,4.1,False,,"per/pers, she/her, fae/faer",1
+245,Zion Perez,eXQe279vNViX,9066030185,348-920-1311,zion.perez@vt.edu,dp,"Robotics Club, Drama Society, Debate Team, Eco Club, Finance Club",English,Country,6,2.6,False,,ve/ver,10
+246,Jaden Brown,0EQomdvMjySC,9066068162,337-585-7004,jaden.brown@vt.edu,p,"Chess Club, Finance Club","Tagalog, Russian, Arabic","Country, Blues, Hip-Hop",10,4.3,False,,"xe/xem, she/her",6
+247,Imani Jones,gByokUTBpK1s,9066064866,709-255-6320,imani.jones@vt.edu,dp,Drama Society,"Korean, German, French","Hip-Hop, Blues, Reggae, Classical",5,4.6,False,,"hir/hirs, per/pers, ey/em",5
+248,Oliver Brown,3zarQw6Y9ald,9066060388,151-258-9961,oliver.brown@vt.edu,p,"Chess Club, Film Society, Robotics Club, Eco Club, Finance Club",Russian,"Classical, Country",9,3,True,UQY-4758,"per/pers, ey/em, xe/xem",5
+249,Jamal Clark,DbXjYnRmokiX,9066078530,181-657-4696,jamal.clark@vt.edu,dp,Chess Club,"Spanish, German","Jazz, Hip-Hop, Country",1,4.5,False,,"ve/ver, per/pers",9
+250,Jaden Taylor,TR19yR9M6PRe,9066080132,998-119-9618,jaden.taylor@vt.edu,dp,A Cappella,Korean,Country,10,1.8,False,,fae/faer,3
+251,Zion Garcia,cDQb8zKAXCuN,9066058975,894-785-5276,zion.garcia@vt.edu,p,"Anime Club, Finance Club, A Cappella, Robotics Club","Tagalog, English, French","Classical, R&B",7,4.9,True,5ADP315,"they/them, he/him, ve/ver",3
+252,Mateo Lewis,a4KfwMDwW2rF,9066080693,405-518-6266,mateo.lewis@vt.edu,dp,"Debate Team, Anime Club","Russian, Tagalog, Chinese",Pop,8,2.5,True,8ZGS079,"hir/hirs, ey/em, fae/faer",5
+253,James Sanchez,6QcEw0TJCnz3,9066093355,760-534-3451,james.sanchez@vt.edu,p,"Film Society, Robotics Club","Chinese, Korean, French","Classical, Hip-Hop",7,4.4,False,,"xe/xem, she/her, per/pers",10
+254,Hassan Perez,cw1nRiYUrqxL,9066023904,544-179-1441,hassan.perez@vt.edu,dp,A Cappella,"Vietnamese, English, Korean",Blues,7,1.5,True,3LGF666,"per/pers, they/them, he/him",1
+255,Isabella Smith,CIfYi31JDB9b,9066077235,476-479-1727,isabella.smith@vt.edu,dp,"Finance Club, Drama Society","English, German, French","Rock, Pop, Blues, Reggae",10,2.1,False,,"fae/faer, per/pers, he/him",4
+256,Aaliyah Taylor,6uaJdC6nCpv6,9066098448,122-955-7873,aaliyah.taylor@vt.edu,dp,"Dance Team, Finance Club, Robotics Club, Film Society, A Cappella","German, Korean",Hip-Hop,3,1.8,False,,"hir/hirs, ve/ver, per/pers",2
+257,Liam Lewis,ChZEszKMKwzI,9066075074,524-271-9183,liam.lewis@vt.edu,dp,"Chess Club, Debate Team, Drama Society, Anime Club","German, Spanish, English","Hip-Hop, Pop, Rock, Country",4,4.8,False,,"they/them, ze/zir, xe/xem",7
+258,Nia Garcia,PxGTQkMpseWj,9066034248,721-909-4729,nia.garcia@vt.edu,p,"Debate Team, Finance Club","Arabic, French, Russian",Country,8,4.3,True,6ZDX149,"ve/ver, ey/em",6
+259,Ximena Williams,UsXSKRxZudXl,9066072373,933-203-4747,ximena.williams@vt.edu,p,"Drama Society, Debate Team, Finance Club, Dance Team, Chess Club",Korean,"Electronic, Classical, Blues, Rock",10,4.5,True,0YYH033,ve/ver,10
+260,Fatima Garcia,mHy6JHX3aDnW,9066049987,372-541-7704,fatima.garcia@vt.edu,dp,"Robotics Club, Film Society, Eco Club, Dance Team, Finance Club","German, French","Country, R&B, Reggae, Pop, Blues",6,4.9,False,,"she/her, he/him, ey/em",1
+261,Imani Perez,HIjGS4J9cnYZ,9066079922,714-506-3691,imani.perez@vt.edu,dp,"Debate Team, Anime Club, Robotics Club","French, Spanish","Classical, R&B, Reggae, Electronic",2,1.8,True,ADX-4346,"ze/zir, per/pers, he/him",7
+262,James Martinez,q2Jr6kXBpUT4,9066085525,397-370-6038,james.martinez@vt.edu,dp,"Debate Team, Film Society, A Cappella, Finance Club, Drama Society","German, Tagalog, Arabic","Jazz, Classical, Electronic, Blues, Hip-Hop",1,4.1,True,USD-6404,she/her,3
+263,Leila Garcia,PQJ7MQOdJUti,9066032121,289-927-9369,leila.garcia@vt.edu,dp,"A Cappella, Robotics Club","French, Korean, Spanish","Rock, Country",4,4.9,False,,"ve/ver, he/him",10
+264,Tariq Rodriguez,TY4PiuCCNYHn,9066042041,170-790-3497,tariq.rodriguez@vt.edu,p,"A Cappella, Eco Club","Tagalog, Russian",Hip-Hop,6,3.2,False,,she/her,3
+265,Valentina Jones,lOBl45KFIF56,9066022293,882-958-4675,valentina.jones@vt.edu,p,"Eco Club, Robotics Club, A Cappella, Film Society, Chess Club",Russian,"Rock, R&B, Hip-Hop, Country",6,2.3,False,,"fae/faer, they/them, xe/xem",8
+266,Carlos Smith,S4zbQcAzLC2m,9066097132,113-965-6187,carlos.smith@vt.edu,dp,Anime Club,"Arabic, Vietnamese, Chinese","Pop, Electronic",10,2,False,,"hir/hirs, ey/em, they/them",7
+267,Carlos Jones,3sYGImxijoMF,9066044262,118-309-1928,carlos.jones@vt.edu,p,"Chess Club, Drama Society",Russian,Rock,9,4.7,False,,"ze/zir, fae/faer",1
+268,Zion Clark,Z53RqXykrRJM,9066073394,688-562-2324,zion.clark@vt.edu,dp,"Anime Club, A Cappella, Chess Club, Drama Society",Spanish,"Blues, Reggae, Classical, Country, Rock",2,1.6,False,,"ve/ver, fae/faer, ey/em",4
+269,Nia Ramirez,gx2Pkloy8saz,9066031816,938-199-6297,nia.ramirez@vt.edu,dp,A Cappella,French,"Classical, Blues, Electronic, R&B, Pop",7,4.2,False,,ey/em,3
+270,Amir Taylor,p3mbrRqtA10k,9066088669,354-765-6849,amir.taylor@vt.edu,p,"Debate Team, Dance Team, Eco Club, Robotics Club, A Cappella","German, Chinese","Reggae, Blues, Classical",7,1.7,False,,"hir/hirs, he/him, ve/ver",3
+271,Alejandro Smith,TPjNfVZh8NdP,9066085156,874-593-4184,alejandro.smith@vt.edu,p,"Chess Club, A Cappella, Dance Team, Debate Team, Anime Club","Spanish, Tagalog, French","R&B, Country, Electronic, Reggae",8,4.1,True,JFJ-6113,he/him,2
+272,Nia Brown,rbiq323Y5Ep4,9066076754,531-874-2369,nia.brown@vt.edu,p,"A Cappella, Robotics Club, Chess Club","Russian, Vietnamese","Classical, Pop, Hip-Hop, Reggae",1,1.4,False,,"per/pers, fae/faer, xe/xem",5
+273,Layla Johnson,UEAPqawXV5aB,9066015599,812-130-3690,layla.johnson@vt.edu,dp,Robotics Club,"Spanish, Korean, English","Jazz, Reggae, R&B, Pop",8,2.2,False,,"they/them, ve/ver",3
+274,Isabella Brown,yl7tsUXwXiE9,9066026671,517-624-6037,isabella.brown@vt.edu,dp,"Dance Team, Drama Society",French,"Blues, Pop, Classical, Electronic",4,1.4,True,FXB-2675,"hir/hirs, she/her, per/pers",5
+275,Mariana Lewis,S1Z6YjGiW5WJ,9066042634,968-614-1833,mariana.lewis@vt.edu,p,Anime Club,"Korean, German, Tagalog",Classical,7,1.8,False,,he/him,1
+276,Hassan Sanchez,SZfO2jonRxey,9066028557,698-888-1424,hassan.sanchez@vt.edu,dp,"Chess Club, Finance Club, Film Society, Dance Team, A Cappella",Chinese,"R&B, Reggae",6,3.3,True,770-OLZ,ze/zir,3
+277,Ximena Garcia,GCxoV7HNZUhu,9066028779,463-685-9263,ximena.garcia@vt.edu,dp,"Film Society, Robotics Club, Eco Club",Tagalog,"Hip-Hop, Blues, Reggae, Electronic, Country",2,1.3,True,206-ZSW,"fae/faer, ve/ver",2
+278,Emily Sanchez,O9wuSVYCvG9F,9066011681,614-566-3417,emily.sanchez@vt.edu,p,"Drama Society, Dance Team, Debate Team, Chess Club",Korean,"Blues, Electronic, Classical, Pop, Jazz",3,2.5,False,,hir/hirs,6
+279,Hassan Jones,FUtOFbwRYvJC,9066059460,227-563-5170,hassan.jones@vt.edu,p,"A Cappella, Film Society, Finance Club, Chess Club",English,"Electronic, Pop, Classical, Jazz",9,1.5,True,881-ZIO,"he/him, ve/ver, ey/em",8
+280,Kareem Lewis,9b60Qi5cDFvA,9066046329,867-783-3892,kareem.lewis@vt.edu,dp,"Robotics Club, A Cappella, Anime Club, Eco Club","Chinese, English, Tagalog","Classical, Pop",9,1.9,False,,she/her,3
+281,Zion Davis,LSR7QBNNn1Rm,9066067111,158-860-3129,zion.davis@vt.edu,p,"Robotics Club, A Cappella","Chinese, Tagalog","Pop, Classical, Reggae",5,3.6,False,,"he/him, per/pers, fae/faer",7
+282,Omar Garcia,PpAbZv8B01g8,9066021883,723-649-9172,omar.garcia@vt.edu,dp,"Robotics Club, Film Society, A Cappella, Eco Club",Russian,"Country, Jazz, Hip-Hop, Reggae, Electronic",6,1.4,False,,"fae/faer, xe/xem",7
+283,Mateo Johnson,zuQIr9taD3Oj,9066092711,593-383-4524,mateo.johnson@vt.edu,p,"Drama Society, Chess Club, Eco Club","Chinese, German","Jazz, R&B, Reggae, Country",8,2.1,True,440-KUV,"ey/em, ze/zir",2
+284,Fatima Sanchez,8op4hMgDddPH,9066056461,567-112-9451,fatima.sanchez@vt.edu,dp,Film Society,"Spanish, English, Arabic","R&B, Electronic, Pop, Reggae",1,3.9,False,,ve/ver,8
+285,Henry Torres,AcnsRUvtoDOH,9066076129,668-594-7801,henry.torres@vt.edu,dp,"Drama Society, Eco Club, Debate Team, Dance Team","Chinese, English, Tagalog","Jazz, Hip-Hop, Pop, Classical",4,2.8,False,,"fae/faer, ve/ver, hir/hirs",8
+286,Oliver Ramirez,zgxiNF3at5iu,9066010146,788-498-7364,oliver.ramirez@vt.edu,dp,Finance Club,"Vietnamese, Korean, French","Rock, Classical, Jazz",9,4.2,False,,she/her,4
+287,Kendrick Martinez,l6J5GAHwC7yg,9066087193,149-769-6204,kendrick.martinez@vt.edu,dp,Dance Team,"Spanish, Arabic","Blues, Jazz",1,3.7,False,,fae/faer,9
+288,Zayn Smith,iF8SkuvDAJfT,9066070052,478-107-2455,zayn.smith@vt.edu,p,"A Cappella, Anime Club",Spanish,"R&B, Country, Rock, Reggae",3,4.2,False,,"fae/faer, he/him",10
+289,Malik Ramirez,3wSJUbXG859j,9066064937,722-985-9129,malik.ramirez@vt.edu,p,"Film Society, Eco Club, Debate Team",Arabic,Hip-Hop,7,4.5,True,DIH-3824,"xe/xem, ve/ver, she/her",6
+290,Henry Brown,mFKPTsBW7sUU,9066033945,528-338-2573,henry.brown@vt.edu,dp,"Chess Club, Dance Team, Anime Club",Arabic,"Hip-Hop, Pop, Electronic",10,4.6,True,6GHP444,xe/xem,9
+291,Isabella Hernandez,M0C7qazRqbWw,9066065008,328-488-5991,isabella.hernandez@vt.edu,dp,"Chess Club, Anime Club, Film Society",Tagalog,"Hip-Hop, Rock, R&B",8,2.5,False,,"he/him, she/her, they/them",10
+292,Nia Perez,Fc3BpzXiG3EG,9066050363,600-746-5852,nia.perez@vt.edu,dp,"Film Society, Robotics Club, Finance Club, Dance Team","French, Korean, Russian","Pop, Hip-Hop",9,2,False,,"ey/em, hir/hirs",9
+293,Mateo Taylor,RtmDtjV27iR8,9066094751,238-261-8865,mateo.taylor@vt.edu,dp,Film Society,"Spanish, Russian","Jazz, Pop, Blues",8,2.6,False,,"xe/xem, ze/zir",6
+294,Hassan Ramirez,txz02y55eg0B,9066089182,863-789-8994,hassan.ramirez@vt.edu,p,"Chess Club, Robotics Club, Finance Club, Anime Club, A Cappella","Spanish, Arabic, French","Country, Pop, Reggae, Hip-Hop",8,4.7,False,,"she/her, fae/faer, per/pers",10
+295,Lucia Sanchez,bQIOEUusN8E5,9066076544,762-182-1271,lucia.sanchez@vt.edu,dp,"Drama Society, Debate Team","Spanish, German, Korean","R&B, Hip-Hop, Rock, Country, Jazz",1,2.5,True,3ANL877,ey/em,5
+296,Jaden Johnson,VjIYkxwSdeTc,9066045629,181-710-3665,jaden.johnson@vt.edu,dp,"Finance Club, Chess Club, Drama Society, Film Society","French, Vietnamese, German","R&B, Blues, Reggae, Pop",3,1.6,False,,"per/pers, ze/zir",9
+297,Alejandro Rodriguez,TK4IoyICy1nW,9066041732,892-568-9538,alejandro.rodriguez@vt.edu,dp,"Finance Club, Dance Team, Robotics Club",German,"R&B, Reggae, Jazz, Blues, Classical",7,4.9,False,,hir/hirs,9
+298,Nia Davis,Yd7XGZvNmh0j,9066017959,707-265-7867,nia.davis@vt.edu,p,"Chess Club, Eco Club, Film Society",Vietnamese,"Electronic, Jazz, Country",8,2.5,True,BAY-9349,"per/pers, she/her, ze/zir",9
+299,Liam Lopez,NN7bMWw9SFqA,9066034116,105-734-5685,liam.lopez@vt.edu,p,"Dance Team, Anime Club",Spanish,"Jazz, Reggae, Rock, Blues, Hip-Hop",5,4.6,True,6OCS306,"fae/faer, per/pers",9
+300,Fatima Hernandez,fQ2JtXwxihQX,9066065181,434-233-3985,fatima.hernandez@vt.edu,p,"Eco Club, Dance Team","Korean, Spanish, French","Hip-Hop, R&B",7,1.4,False,,she/her,3
