@@ -6,24 +6,31 @@ from sklearn.cluster import KMeans
 from sklearn.metrics import pairwise_distances, silhouette_score
 import matplotlib.pyplot as plt
 from sklearn.decomposition import PCA
+#%%
+
 
 app = Flask(__name__)
+
 
 data = pd.read_csv('user.csv', index_col=False)
 print(data.head(10))
 print(data.columns)
 
-
+#%%
 # Multi-label binarization for multi-label fields
 mlb_clubs = MultiLabelBinarizer()
 mlb_languages = MultiLabelBinarizer()
 mlb_music = MultiLabelBinarizer()
 mlb_pronouns = MultiLabelBinarizer()
-
+#%%
 data_clubs = pd.DataFrame(mlb_clubs.fit_transform(data['vt_clubs']), columns=mlb_clubs.classes_)
 data_languages = pd.DataFrame(mlb_languages.fit_transform(data['languages']), columns=mlb_languages.classes_)
 data_music = pd.DataFrame(mlb_music.fit_transform(data['music_genre']), columns=mlb_music.classes_)
 data_pronouns = pd.DataFrame(mlb_pronouns.fit_transform(data['pronouns']), columns=mlb_pronouns.classes_)
+print(data_clubs.head(5))
+print(data_languages.head(5))
+print(data_music.head(5))
+print(data_pronouns.head(5))
 
 #%% Combine encoded multi-label data with numeric features
 user_features = pd.concat([
@@ -65,13 +72,16 @@ def calculate_similarity(target_user_index, other_user_indices, data_scaled):
 
 #%%
 def test_calculate_similarity():
-
+    # Pick a single user (e.g., the first user in the DataFrame)
     target_user_index = 5  # Index of the target user
-    other_user_indices = [7, 2, 9, 4]  # Indices of the drivers
+
+    # Pick four arbitrary users (e.g., the next four users in the DataFrame)
+    other_user_indices = [7, 2, 9, 4]  # Indices of the other users
 
     # Calculate similarity scores
     similarity_scores = calculate_similarity(target_user_index, other_user_indices, user_features_scaled)
 
+    # Create a list of similarity scores with user IDs
     result = []
     for i, user_idx in enumerate(other_user_indices):
         result.append({
@@ -84,7 +94,7 @@ def test_calculate_similarity():
 
 #%% Visualize the clusters
 def viz(target_user_index, other_user_indices):
-
+    # Perform PCA for 2D visualization
     pca = PCA(n_components=2)
     user_features_2d = pca.fit_transform(user_features_scaled)
 
@@ -97,7 +107,11 @@ def viz(target_user_index, other_user_indices):
     target_user_index = 5
     other_user_indices = [7, 2, 9, 4]
 
+    # Plot the target user
     plt.scatter(user_features_2d[target_user_index, 0], user_features_2d[target_user_index, 1], color='red', label='Target User', edgecolor='black', s=100)
+
+    # Plot the other users
+
     plt.scatter(user_features_2d[other_user_indices, 0], user_features_2d[other_user_indices, 1], color='blue', label='Matched Drivers', edgecolor='black', s=100)
 
     # Add labels and legend
@@ -106,18 +120,51 @@ def viz(target_user_index, other_user_indices):
     plt.title('User Clusters Visualization')
     plt.legend()
     plt.show()
+#%% Example usage
+similarity_test_result = test_calculate_similarity()
+print(similarity_test_result)
+viz(5, [7, 2, 9, 4])
+# pca = PCA(n_components=2)
+# user_features_2d = pca.fit_transform(user_features_scaled)
+#
+# # Plot the clusters
+# plt.figure(figsize=(10, 8))
+# scatter = plt.scatter(user_features_2d[:, 0], user_features_2d[:, 1], c=data['cluster'], cmap='viridis', alpha=0.5)
+# plt.colorbar(scatter, label='Cluster')
+#
+# # Highlight the users in the test method
+# target_user_index = 0
+# other_user_indices = [1, 2, 3, 4]
+#
+# # Plot the target user
+# plt.scatter(user_features_2d[target_user_index, 0], user_features_2d[target_user_index, 1], color='red', label='Target User', edgecolor='black', s=100)
+#
+# # Plot the other users
+# for idx in other_user_indices:
+#     plt.scatter(user_features_2d[idx, 0], user_features_2d[idx, 1], color='blue', label='Other Users', edgecolor='black', s=100)
+#
+# # Add labels and legend
+# plt.xlabel('PCA Component 1')
+# plt.ylabel('PCA Component 2')
+# plt.title('User Clusters Visualization')
+# plt.legend(['Target User', 'Other Users'])
+# plt.show()
 
 
 
-@app.route("/", methods=['GET', 'POST'])
-def index():
-    return  {
-        "path" : request.path,
-        "method" : request.method,
-        "headers" : dict(request.headers),
-        "args" : dict(request.args),
-        "body" : request.data.decode('utf-8')
-    }
+
+#%% Existing index route logic
+# @app.route("/", methods=['GET', 'POST'])
+# def index():
+#     return {
+#         "path": request.path,
+#         "method": request.method,
+#         "headers": dict(request.headers),
+#         "args": dict(request.args),
+#         "body": request.data.decode('utf-8')
+#     }
+
+# New route for similarity calculation
 @app.route("/compatibility", methods=['POST'])
 def get_similarity():
     request_data = request.json
@@ -146,7 +193,4 @@ def get_similarity():
     # Return JSON response
     return jsonify(response_data)
 
-
-
-if __name__ == '__main__':
-    app.run(debug=True, host='0.0.0.0', port=8080)
+app.run(debug=True, host='0.0.0.0', port=8080)
